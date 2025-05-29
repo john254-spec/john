@@ -1,0 +1,6 @@
+﻿AppData/
+Cookies/
+Documents/
+.gradle/
+node_modules/
+.env
